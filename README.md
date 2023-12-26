@@ -131,4 +131,4 @@ Step 4: Populate Book Cover Page and adjust Formatting:
 </html>
 ``````
 # OUTPUT:
-![Alt text](../COVER.png)
+![COVER](https://github.com/saniyaganesamoorthy/Ex-06-Book-Cover-Design/assets/145742583/a12b5c51-e64c-452a-ab5e-2d11adb0b5bf)
